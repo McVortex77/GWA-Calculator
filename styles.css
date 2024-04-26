@@ -4,7 +4,6 @@ body {
     background-image: url("bg.jpg");
     background-size: auto;
     color: aliceblue;
-    background-repeat: no-repeat;
 }
 
 #title {
